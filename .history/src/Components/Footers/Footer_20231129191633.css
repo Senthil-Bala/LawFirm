@@ -1,0 +1,33 @@
+.footerDiv{
+    
+height: 367px;
+/* border: 1px solid white; */
+display: flex;
+flex-direction: column;
+font-size: smaller;
+background-color: black;
+/* width: 100%; */
+
+
+}
+.firstDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+}
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+}
+.secondDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    /* margin-top: 2rem; */
+    font-size: xx-small;
+    
+}

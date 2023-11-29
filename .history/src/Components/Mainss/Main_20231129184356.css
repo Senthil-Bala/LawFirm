@@ -1,0 +1,55 @@
+.main {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.left {
+    font-family: Inter;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 87px;
+    text-align: left;
+    
+}
+/* Styling for the main container */
+.main {
+    display: flex;
+    justify-content: ;
+    align-items: center;
+}
+
+/* Styling for the vertical line */
+.vertical-line {
+    border-left: 1px solid dimgray; /* Set color for the left border */
+    height: 100px; /* Set height of the line */
+    margin: 0 20px; /* Adjust margin as needed */
+}
+
+
+
+.right{
+    display: flex;
+    flex-direction: column;
+    
+}
+#heading {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: center;
+    /* width: 475px;
+    height: 155px; */
+   
+}
+#subHeading{
+    color: dimgrey;
+    /* width: 475px;
+height: 87px;
+
+opacity: 0.3px; */
+
+}

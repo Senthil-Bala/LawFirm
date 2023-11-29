@@ -1,0 +1,33 @@
+import React from 'react'
+import "./Footer.css";
+import logo from "../assests/logo.png";
+import Group from "../assests/group"
+function Footer() {
+  return (
+    <div className='footerDiv'>
+        <div className="firstDiv">
+           <div>
+            <img src={logo} alt="logo" />
+            <p>IGSTUDIO</p>
+           </div>
+           <div className="mainDiv ">
+            <p>Home</p>
+            <p>Attorneys</p>
+            <p>Practice Areas</p>
+            <p>About Us</p>
+           </div>
+           <div>
+            <img src={} alt="Icons" />
+           </div>
+        </div>
+        <div className="secondDiv ">
+            <p>© 2020 Acme. All rig</p>
+            <p>Privacy Policy</p>
+            <p>Terms of Service</p>
+        </div>
+
+    </div>
+  )
+}
+
+export default Footer

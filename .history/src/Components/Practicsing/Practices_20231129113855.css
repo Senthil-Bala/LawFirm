@@ -1,0 +1,16 @@
+.left{
+    width:35rem;
+    height:10rem;
+    
+}
+.right{
+    width:15rem;
+    height:10rem;
+    position: relative;
+}
+.title{
+    position: absolute;
+    bottom: 0px;
+    left: 30%;
+    text-align: center;
+}

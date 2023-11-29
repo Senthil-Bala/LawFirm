@@ -1,0 +1,13 @@
+.headers{
+font-size: large;
+color: black;
+}
+.bodies{
+color: darkslategray;
+}
+.acco{
+    background: rgba(227, 183, 72, 1);
+    border-radius: 1rem;
+    padding: 1rem;
+    color: black;
+}

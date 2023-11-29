@@ -1,0 +1,55 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.left {
+    font-family: Inter;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 87px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 387px;
+    height: 174px;
+    top: 1081px;
+    left: 150px;
+
+
+}
+/* Styling for the line */
+.line {
+    border: none;
+    border-top: 1px solid dimgray; /* Set color for the top border */
+    width: 100%; /* Adjust width as needed */
+    margin: 20px 0; /* Adjust margin as needed */
+}
+
+
+
+.right{
+    display: flex;
+    flex-direction: column;
+    
+}
+#heading {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: center;
+    /* width: 475px;
+    height: 155px; */
+   
+}
+#subHeading{
+    color: dimgrey;
+    /* width: 475px;
+height: 87px;
+
+opacity: 0.3px; */
+
+}

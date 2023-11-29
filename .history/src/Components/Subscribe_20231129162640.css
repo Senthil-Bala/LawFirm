@@ -1,0 +1,10 @@
+.subscribes{
+height: 356px;
+background-color:darkslategray;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border-radius: 1rem;
+gap: 30px;;
+}

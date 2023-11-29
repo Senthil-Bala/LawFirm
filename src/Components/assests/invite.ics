@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20231128T150000
+DTEND;TZID=Asia/Kolkata:20231128T160000
+DTSTAMP:20231127T063117Z
+ORGANIZER;CN=Shruti Gangavati:mailto:recruiter@ultimez.com
+UID:3na8ru044t0ncgmavh40ocgmam@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Qadir AK;X-NUM-GUESTS=0:mailto:qadir@ultimez.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Shruti Gangavati;X-NUM-GUESTS=0:mailto:recruiter@ultimez.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Ultimez Technology Career;X-NUM-GUESTS=0:mailto:career@ultimez.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=senthilkumarbala100@gmail.com;X-NUM-GUESTS=0:mailto:senthilkumarbal
+ a100@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=HR ULTIMEZ TECHNOLOGY;X-NUM-GUESTS=0:mailto:hr@ultimez.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/zwp-vnjm-ymu
+X-MICROSOFT-CDO-OWNERAPPTID:1516821922
+CREATED:20231127T063115Z
+DESCRIPTION:<p>Dear <b>Senthil\,</b></p><p>Greetings from Ultimez Technolog
+ y!</p><p>Thank you for applying with Ultimez Technology.</p><p>You have bee
+ n shortlisted for an online interview with associate recruiter Ms. Shruti G
+ .</p><p><b>Kindly Reply to <a href="mailto:recruiter@ultimez.com">recruiter
+ @ultimez.com</a> email by attaching your updated Resume.</b></p><p>Please r
+ espond to this email\, and feel free to contact us in the interim if you ha
+ ve any queries.</p><p>PS: Please make all necessary preparations for the in
+ terview. (Webcam\, network\, etc.)</p><p><br></p><p><b> Regards\,</b></p><p
+ ><b> Shruti G</b></p><p><b> Associate Recruiter\, Ultimez Technology.</b></
+ p><p><b>Mail id:</b>  <a href="mailto:recruiter@ultimez.com">recruiter@ulti
+ mez.com</a><b> || </b><b><u></u><u></u><wbr />Phone # : 08362355505/9611200
+ 269</b></p>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com
+ /zwp-vnjm-ymu\nOr dial: (US) +1 307-364-0503 PIN: 465544383#\nMore phone nu
+ mbers: https://tel.meet/zwp-vnjm-ymu?pin=4077913464205&hs=7\n\nLearn more a
+ bout Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease d
+ o not edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20231127T063115Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Interview Schedule  Reactjs-Frontend Developer Position: Senthil  -
+  Ultimez Technology
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

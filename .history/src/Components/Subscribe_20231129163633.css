@@ -1,0 +1,26 @@
+.subscribes{
+height: 356px;
+background-color:darkslategray;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border-radius: 1rem;
+gap: 30px;
+}
+#send{
+    background: rgba(227, 183, 72, 1);
+    height: 2.5rem;
+    width: 5rem;
+    border-radius: 0.5rem;
+
+}
+.inputOne{
+    width: 10rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+
+}
+.inputAndbutton{
+display: ;
+}

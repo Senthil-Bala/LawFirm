@@ -1,0 +1,34 @@
+/* Adjustments to Navbar component CSS */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* Other styles remain the same */
+}
+
+.mid {
+    display: flex;
+    gap: 30px;
+    font-family: Inter;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1; /* Allows this div to grow and occupy remaining space */
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    /* Other styles remain the same */
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo img {
+    height: 1rem;
+}

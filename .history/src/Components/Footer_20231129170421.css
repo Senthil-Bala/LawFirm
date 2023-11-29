@@ -1,0 +1,24 @@
+.footerDiv{
+    
+height: 367px;
+border: 1px solid white;
+display: flex;
+flex-direction: column;
+
+}
+.firstDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
+.secondDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,8 @@
+.arrows button{
+    border-radius: 50%;
+    height: 3rem;
+    width: 3rem;
+}
+.rgt{
+    background: rgba(227, 183, 72, 1);
+}

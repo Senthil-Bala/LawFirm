@@ -1,0 +1,17 @@
+.details{
+    background: rgba(227, 183, 72, 1);
+
+
+
+}
+
+#head{
+    background: rgba(30, 27, 27, 0.5);
+    color: black
+}
+.acco{
+    border-radius: 0.5rem;
+    border: none;
+    background: rgba(41, 39, 39, 0.5);
+
+}
